@@ -65,7 +65,7 @@
 <b>𝕺𝖊𝖕𝖑𝖔𝖞 𝕿𝖔 𝕳𝖊𝖗𝖔𝖐𝖚</b>:-
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/soymadip/EVA_Cinehub.git">
+<a href="https://heroku.com/deploy?template=https://github.com/Billa008/EVA_Cinehub)">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
