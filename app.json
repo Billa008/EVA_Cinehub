@@ -67,7 +67,7 @@
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-            "value": "EvaCinehub_files",
+            "value": "Telegram_files",
             "required": false
         }
     },
@@ -78,7 +78,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
